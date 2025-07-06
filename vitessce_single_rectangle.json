@@ -1,36 +1,21 @@
 {
   "version": "0.1.0",
-  "name": "Single ROI",
+  "name": "Full Image ROI",
   "type": "obsSegmentations",
   "segmentations": [
     {
-      "obs_id": "ROI_0",
+      "obs_id": "ROI_full",
       "segments": [
         {
           "type": "polygon",
           "filled": true,
           "coordinates": [
             [
-              [
-                100.0,
-                100.0
-              ],
-              [
-                200.0,
-                100.0
-              ],
-              [
-                200.0,
-                200.0
-              ],
-              [
-                100.0,
-                200.0
-              ],
-              [
-                100.0,
-                100.0
-              ]
+              [0.0, 0.0],
+              [1024.0, 0.0],
+              [1024.0, 1024.0],
+              [0.0, 1024.0],
+              [0.0, 0.0]
             ]
           ]
         }
