@@ -1,44 +1,25 @@
 {
-  "version": "1.0.15",
-  "name": "Single ROI Demo",
-  "datasets": [
+  "version": "0.1.0",
+  "name": "Single ROI",
+  "type": "obsSegmentations",
+  "segmentations": [
     {
-      "uid": "demo",
-      "name": "Single Rectangle Dataset",
-      "files": [
+      "obs_id": "ROI_0",
+      "segments": [
         {
-          "fileType": "obsSegmentations",
-          "url": "http://localhost:5000/vitessce_single_rectangle.json",
-          "coordinationValues": {
-            "obsType": "ROI"
-          },
-          "options": {
-            "name": "Single Rectangle"
-          }
+          "type": "polygon",
+          "filled": true,
+          "coordinates": [
+            [
+              [100.0, 100.0],
+              [200.0, 100.0],
+              [200.0, 200.0],
+              [100.0, 200.0],
+              [100.0, 100.0]
+            ]
+          ]
         }
       ]
     }
-  ],
-  "coordinationSpace": {
-    "dataset": {
-      "A": "demo"
-    },
-    "obsType": {
-      "ROI": "ROI"
-    }
-  },
-  "layout": [
-    {
-      "component": "spatial",
-      "coordinationScopes": {
-        "dataset": "A",
-        "obsType": "ROI"
-      },
-      "x": 0,
-      "y": 0,
-      "w": 12,
-      "h": 12
-    }
-  ],
-  "initStrategy": "auto"
+  ]
 }
