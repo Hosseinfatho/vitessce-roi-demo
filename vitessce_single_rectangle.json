@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "name": "Single ROI",
+  "type": "obsSegmentations",
+  "segmentations": [
+    {
+      "obs_id": "ROI_0",
+      "segments": [
+        {
+          "type": "polygon",
+          "filled": true,
+          "coordinates": [
+            [
+              [
+                100.0,
+                100.0
+              ],
+              [
+                200.0,
+                100.0
+              ],
+              [
+                200.0,
+                200.0
+              ],
+              [
+                100.0,
+                200.0
+              ],
+              [
+                100.0,
+                100.0
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
