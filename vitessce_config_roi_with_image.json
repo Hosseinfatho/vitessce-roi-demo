@@ -10,7 +10,7 @@
           "fileType": "image.ome-zarr",
           "url": "https://vitessce-data.storage.googleapis.com/test-data/image-zarr/ome-ngff-multiscale.ome.zarr",
           "coordinationValues": {
-            "spatialTargetC": 0
+            "spatialTargetC": "0"
           }
         },
         {
