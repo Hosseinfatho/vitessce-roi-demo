@@ -1,0 +1,73 @@
+{
+  "version": "0.1.0",
+  "name": "3D Cube ROI",
+  "type": "obsSegmentations",
+  "segmentations": [
+    {
+      "obs_id": "CUBE_0",
+      "segments": [
+        {
+          "type": "polygon",
+          "filled": true,
+          "coordinates": [
+            [
+              [
+                100.0,
+                100.0
+              ],
+              [
+                200.0,
+                100.0
+              ],
+              [
+                200.0,
+                200.0
+              ],
+              [
+                100.0,
+                200.0
+              ],
+              [
+                100.0,
+                100.0
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "obs_id": "CUBE_1",
+      "segments": [
+        {
+          "type": "polygon",
+          "filled": true,
+          "coordinates": [
+            [
+              [
+                120.0,
+                120.0
+              ],
+              [
+                220.0,
+                120.0
+              ],
+              [
+                220.0,
+                220.0
+              ],
+              [
+                120.0,
+                220.0
+              ],
+              [
+                120.0,
+                120.0
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
