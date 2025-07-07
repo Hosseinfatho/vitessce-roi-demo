@@ -1,0 +1,279 @@
+{
+  "coordinationSpace": {
+    "dataset": {
+      "A": "bv"
+    },
+    "imageChannel": {
+      "init_bv_image_0": "__dummy__",
+      "init_bv_image_1": "__dummy__",
+      "init_bv_image_2": "__dummy__",
+      "init_bv_image_3": "__dummy__",
+      "init_bv_image_4": "__dummy__",
+      "init_bv_image_5": "__dummy__"
+    },
+    "imageLayer": {
+      "init_bv_image_0": "__dummy__"
+    },
+    "metaCoordinationScopes": {
+      "A": {
+        "obsType": "A"
+      },
+      "init_bv_image_0": {
+        "imageLayer": [
+          "init_bv_image_0"
+        ],
+        "spatialRenderingMode": "init_bv_image_0",
+        "spatialTargetT": "init_bv_image_0",
+        "spatialTargetX": "init_bv_image_0",
+        "spatialTargetY": "init_bv_image_0",
+        "spatialTargetZ": "init_bv_image_0",
+        "spatialZoom": "init_bv_image_0"
+      }
+    },
+    "metaCoordinationScopesBy": {
+      "A": {},
+      "init_bv_image_0": {
+        "imageChannel": {
+          "spatialChannelColor": {
+            "init_bv_image_0": "init_bv_image_0",
+            "init_bv_image_1": "init_bv_image_1",
+            "init_bv_image_2": "init_bv_image_2",
+            "init_bv_image_3": "init_bv_image_3",
+            "init_bv_image_4": "init_bv_image_4",
+            "init_bv_image_5": "init_bv_image_5"
+          },
+          "spatialChannelOpacity": {
+            "init_bv_image_0": "init_bv_image_0",
+            "init_bv_image_1": "init_bv_image_1",
+            "init_bv_image_2": "init_bv_image_2",
+            "init_bv_image_3": "init_bv_image_3",
+            "init_bv_image_4": "init_bv_image_4",
+            "init_bv_image_5": "init_bv_image_5"
+          },
+          "spatialChannelVisible": {
+            "init_bv_image_0": "init_bv_image_0",
+            "init_bv_image_1": "init_bv_image_1",
+            "init_bv_image_2": "init_bv_image_2",
+            "init_bv_image_3": "init_bv_image_3",
+            "init_bv_image_4": "init_bv_image_4",
+            "init_bv_image_5": "init_bv_image_5"
+          },
+          "spatialChannelWindow": {
+            "init_bv_image_0": "init_bv_image_0",
+            "init_bv_image_1": "init_bv_image_1",
+            "init_bv_image_2": "init_bv_image_2",
+            "init_bv_image_3": "init_bv_image_3",
+            "init_bv_image_4": "init_bv_image_4",
+            "init_bv_image_5": "init_bv_image_5"
+          },
+          "spatialTargetC": {
+            "init_bv_image_0": "init_bv_image_0",
+            "init_bv_image_1": "init_bv_image_1",
+            "init_bv_image_2": "init_bv_image_2",
+            "init_bv_image_3": "init_bv_image_3",
+            "init_bv_image_4": "init_bv_image_4",
+            "init_bv_image_5": "init_bv_image_5"
+          }
+        },
+        "imageLayer": {
+          "imageChannel": {
+            "init_bv_image_0": [
+              "init_bv_image_0",
+              "init_bv_image_1",
+              "init_bv_image_2",
+              "init_bv_image_3",
+              "init_bv_image_4",
+              "init_bv_image_5"
+            ]
+          },
+          "photometricInterpretation": {
+            "init_bv_image_0": "init_bv_image_0"
+          },
+          "spatialLayerOpacity": {
+            "init_bv_image_0": "init_bv_image_0"
+          },
+          "spatialLayerVisible": {
+            "init_bv_image_0": "init_bv_image_0"
+          },
+          "spatialTargetResolution": {
+            "init_bv_image_0": "init_bv_image_0"
+          }
+        }
+      }
+    },
+    "obsType": {
+      "A": "ROI"
+    },
+    "photometricInterpretation": {
+      "init_bv_image_0": "BlackIsZero"
+    },
+    "spatialChannelColor": {
+      "init_bv_image_0": [
+        0,
+        255,
+        0
+      ],
+      "init_bv_image_1": [
+        255,
+        255,
+        0
+      ],
+      "init_bv_image_2": [
+        255,
+        0,
+        255
+      ],
+      "init_bv_image_3": [
+        0,
+        255,
+        255
+      ],
+      "init_bv_image_4": [
+        255,
+        0,
+        0
+      ],
+      "init_bv_image_5": [
+        128,
+        0,
+        128
+      ]
+    },
+    "spatialChannelOpacity": {
+      "init_bv_image_0": 1.0,
+      "init_bv_image_1": 1.0,
+      "init_bv_image_2": 1.0,
+      "init_bv_image_3": 1.0,
+      "init_bv_image_4": 1.0,
+      "init_bv_image_5": 1.0
+    },
+    "spatialChannelVisible": {
+      "init_bv_image_0": true,
+      "init_bv_image_1": true,
+      "init_bv_image_2": true,
+      "init_bv_image_3": true,
+      "init_bv_image_4": true,
+      "init_bv_image_5": true
+    },
+    "spatialChannelWindow": {
+      "init_bv_image_0": [
+        300,
+        20000
+      ],
+      "init_bv_image_1": [
+        1000,
+        7000
+      ],
+      "init_bv_image_2": [
+        700,
+        6000
+      ],
+      "init_bv_image_3": [
+        1638,
+        10000
+      ],
+      "init_bv_image_4": [
+        1638,
+        7000
+      ],
+      "init_bv_image_5": [
+        370,
+        1432
+      ]
+    },
+    "spatialLayerOpacity": {
+      "init_bv_image_0": 1.0
+    },
+    "spatialLayerVisible": {
+      "init_bv_image_0": true
+    },
+    "spatialRenderingMode": {
+      "init_bv_image_0": "3D"
+    },
+    "spatialTargetC": {
+      "init_bv_image_0": 19,
+      "init_bv_image_1": 27,
+      "init_bv_image_2": 37,
+      "init_bv_image_3": 25,
+      "init_bv_image_4": 59,
+      "init_bv_image_5": 42
+    },
+    "spatialTargetResolution": {
+      "init_bv_image_0": 3
+    },
+    "spatialTargetT": {
+      "init_bv_image_0": 0
+    },
+    "spatialTargetX": {
+      "init_bv_image_0": 5454
+    },
+    "spatialTargetY": {
+      "init_bv_image_0": 2754
+    },
+    "spatialTargetZ": {
+      "init_bv_image_0": 0
+    },
+    "spatialZoom": {
+      "init_bv_image_0": -3.0
+    }
+  },
+  "datasets": [
+    {
+      "files": [
+        {
+          "fileType": "image.ome-zarr",
+          "url": "https://lsp-public-data.s3.amazonaws.com/yapp-2023-3d-melanoma/Dataset1-LSP13626-melanoma-in-situ/0"
+        },
+        {
+  "fileType": "obsSegmentations.json",
+  "url": "https://raw.githubusercontent.com/Hosseinfatho/vitessce-roi-demo/master/vitessce_single_rectangle.json",
+  "coordinationValues": {"obsType": "ROI"}
+        }
+      ],
+      "name": "Blood Vessel",
+      "uid": "bv"
+    }
+  ],
+  "description": "ROI annotations for the BioMedVis Challenge",
+  "initStrategy": "auto",
+  "layout": [
+    {
+      "component": "spatialBeta",
+      "coordinationScopes": {
+        "dataset": "A",
+        "metaCoordinationScopes": [
+          "init_bv_image_0",
+          "A"
+        ],
+        "metaCoordinationScopesBy": [
+          "init_bv_image_0",
+          "A"
+        ]
+      },
+      "h": 12,
+      "w": 6,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "component": "layerControllerBeta",
+      "coordinationScopes": {
+        "dataset": "A",
+        "metaCoordinationScopes": [
+          "init_bv_image_0",
+          "A"
+        ],
+        "metaCoordinationScopesBy": [
+          "init_bv_image_0",
+          "A"
+        ]
+      },
+      "h": 12,
+      "w": 6,
+      "x": 6,
+      "y": 0
+    }
+  ],
+  "name": "BioMedVis Challenge",
+  "version": "1.0.15"
+}
